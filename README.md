@@ -2,7 +2,10 @@
 
 Sadece Sqlite kullanılıyor
 
-`docker compose up` ile çalıştır kullan
+1. [şifre üret](https://duckduckgo.com/?q=pw)
+2. [KEY üret](https://duckduckgo.com/?q=guid)
+3. [SECRET üret](https://duckduckgo.com/?q=guid)
+4. `docker compose up` ile çalıştır kullan
 
 ## Örnek .env dosyası
 
